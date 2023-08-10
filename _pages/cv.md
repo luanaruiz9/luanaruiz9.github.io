@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /publications/
-title: publications
+permalink: /cv/
+title: cv
 nav: true
 nav_order: 3
 ---
