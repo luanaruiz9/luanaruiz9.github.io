@@ -1,12 +1,9 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - luanaruiz9
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - luanaruiz9/local_sampl_gnn
+  - luanaruiz9/wntk
+  - googleinterns/compositional-generalization-2021
+  - alelab-upenn/graph-neural-networks
+  - luanaruiz9/gated_gcrnns
