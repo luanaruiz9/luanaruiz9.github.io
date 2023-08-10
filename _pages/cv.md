@@ -1,9 +1,1 @@
----
-layout: cv
-permalink: /cv/
-title: cv
-nav: true
-nav_order: 4
-cv_pdf: cv_luana_ruiz.pdf
-description:
----
+<meta http-equiv="Refresh" content="0; url='https://www.dropbox.com/s/k7tnugb9yrfjieq/cv_luana_ruiz.pdf?dl=0'" />
