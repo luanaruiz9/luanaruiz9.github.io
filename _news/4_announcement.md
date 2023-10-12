@@ -6,5 +6,5 @@ inline: true
 related_posts: true
 ---
 
-Talk "Large-Scale Graph Machine Learning: Tradeoffs, Guarantees and Dynamics" at the <a href="https://ifml.institute/events/large-scale-graph-machine-learning-tradeoffs-guarantees-and-dynamics-0">IFML Seminar</a> at UT Austin.
+Talk "Large-Scale Graph Machine Learning: Tradeoffs, Guarantees and Dynamics" at the IFML Seminar at UT Austin.
 

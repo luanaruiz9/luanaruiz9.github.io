@@ -6,5 +6,5 @@ inline: true
 related_posts: true
 ---
 
-Talk "Manifold Neural Networks for Large-Scale Geometric Information Processing" at the <a href="https://engineering.jhu.edu/ams/events/">JHU AMS Department Seminar.</a>
+Talk "Manifold Neural Networks for Large-Scale Geometric Information Processing" at the JHU AMS Department Seminar.
 
