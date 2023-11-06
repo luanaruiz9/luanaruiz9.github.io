@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://luanaruiz9.github.io/sitemap.xml
+Sitemap: //luanaruiz9.github.io/sitemap.xml
