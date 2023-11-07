@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Assistant Professor, <a href='https://engineering.jhu.edu/ams/'>Department of Applied Mathematics and Statistics, Johns Hopkins University</a>. 
+subtitle: Assistant Professor, [Department of Applied Mathematics and Statistics, Johns Hopkins University](https://engineering.jhu.edu/ams/)
 profile:
   align: right
   image: prof_pic.jpg
