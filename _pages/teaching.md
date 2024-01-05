@@ -7,4 +7,6 @@ nav: true
 nav_order: 2
 ---
 
-In Fall 2023, I am co-teaching EN.553.413/613 - Applied Statistics and Data Analysis with Dr. Sergey Kushnarev. More details soon. 
+Fall 2023: EN.553.413/613 - Applied Statistics and Data Analysis.
+
+Spring 2024: EN.553.439/639 - Time Series Analysis.
