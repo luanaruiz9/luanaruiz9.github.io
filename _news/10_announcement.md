@@ -6,4 +6,4 @@ inline: true
 related_posts: true
 ---
 
-In Seoul to present our paper "A Spectral Analysis of Graph Neural Networks on Dense and Sparse Graphs" at ICASSP'24.
+In Seoul to present our paper "A Spectral Analysis of Graph Neural Networks on Dense and Sparse Graphs" (with Teresa Huang and Soledad Villar) at ICASSP'24.
