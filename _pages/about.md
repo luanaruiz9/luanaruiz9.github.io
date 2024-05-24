@@ -8,14 +8,15 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>Office N452</p>
-    <p>Wyman Park Building</p>
+    <p>Wyman Park Building N452</p>
     <p>Baltimore, MD 21211</p>
+    <p>lrubini1-at-jh-dot-edu</p>
+
 
 news: true  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
+social: false  # includes social icons at the bottom of the page
 ---
 
 I am an assistant professor with the [Department of Applied Mathematics and Statistics](https://engineering.jhu.edu/ams/) at Johns Hopkins University, the [Mathematical Institute for Data Science (MINDS)](https://www.minds.jhu.edu/), and the [Data Science and Artificial Intelligence Institute (DSAI)](https://engineering.jhu.edu/Datascience-AI/). Before that, I was a METEOR and FODSI postdoctoral fellow working with Prof. Stefanie Jegelka at MIT, and a Google Research Fellow at the Simons Institute for the Theory of Computing. I obtained my PhD from the Electrical and Systems Engineering Department at Penn, where I was very fortunate to be advised by Prof. Alejandro Ribeiro. 
