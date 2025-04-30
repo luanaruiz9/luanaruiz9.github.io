@@ -22,9 +22,9 @@ I investigate signal processing and learning on graphons, which can be thought a
 
 ### Manifold Signal Processing and Manifold Neural Networks
 
-With my dear collaborator, Zhiyang Wang, I also study signal processing on manifolds, which can be seen as the limit objcts geometric graphs. This includes defining convolutional filters on submanifolds of Euclidean space, studying their stability, and developing manifold neural networks. Applications range from image classification on image manifolds to geometric machine learning on "any-data" manifolds motivated by the manifold hypothesis.
+With my dear collaborator Zhiyang Wang, I also study signal processing on manifolds, which can be seen as the limit objcts geometric graphs. This includes defining convolutional filters on submanifolds of Euclidean space, studying their stability, and developing manifold neural networks. Applications range from image classification on image manifolds to geometric machine learning on "any-data" manifolds motivated by the manifold hypothesis.
 
-<img src="/assets/img/Diagram_nsf.png" alt="Example of a data manifold for image classification" style="max-width: 100%; height: auto;" />
+<img src="/assets/img/Diagram_nsf.jpeg" alt="Example of a data manifold for image classification" style="max-width: 100%; height: auto;" />
 
 **Key publications**:
 - [Stability of Neural Networks on Riemannian Manifolds](https://ieeexplore.ieee.org/document/9616144) (EUSIPCO 2021 – Best Paper Award)  
