@@ -13,7 +13,7 @@ My research focuses on machine learning, signal processing, and network science,
 
 I investigate signal processing and learning on graphons, which can be thought as both limits of very large graphs and graph generative models. By modeling large graphs as samples from graphons, my work formalizes the transferability of graph neural networks (GNNs) by analyzing their continuity on convergent graph sequences. This includes early formulations of graphon signal processing and the development of graphon neural networks for efficient learning of transferable GNN models for large graphs.
 
-<img src="/assets/img/diagram_gnn.png" alt="Diagram of a graphon-informed GNN pipeline" style="max-width: 100%; height: auto;" />
+<img src="/assets/img/diagram_gnn.png" alt="GNN transferability pipeline" style="max-width: 100%; height: auto;" />
 
 **Key publications**:
 - [Graphon Signal Processing](https://ieeexplore.ieee.org/document/9508876) (IEEE Transactions on Signal Processing, 2021)  
@@ -24,7 +24,7 @@ I investigate signal processing and learning on graphons, which can be thought a
 
 With my dear collaborator, Zhiyang Wang, I also study signal processing on manifolds, which can be seen as the limit objcts geometric graphs. This includes defining convolutional filters on submanifolds of Euclidean space, studying their stability, and developing manifold neural networks. Applications range from image classification on image manifolds to geometric machine learning on "any-data" manifolds motivated by the manifold hypothesis.
 
-<img src="/assets/img/image_manifold.png" alt="Example of a data manifold for image representations" style="max-width: 100%; height: auto;" />
+<img src="/assets/img/Diagram_nsf.png" alt="Example of a data manifold for image classification" style="max-width: 100%; height: auto;" />
 
 **Key publications**:
 - [Stability of Neural Networks on Riemannian Manifolds](https://ieeexplore.ieee.org/document/9616144) (EUSIPCO 2021 – Best Paper Award)  
