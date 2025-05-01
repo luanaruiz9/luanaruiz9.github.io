@@ -46,7 +46,7 @@ Below is a list of handwritten lecture notes, Colab notebooks, and lab assignmen
 
 ## Spring 2024: EN.553.439/639 – Time Series Analysis
 
-This course introduces methods for analyzing and forecasting time series data, including autoregressive (AR), moving average (MA) ARMA, ARIMA and seasonal models. Applications include finance, climate science, and engineering. Materials based on "Time Series Analysis with Applications in R" by Cryer and Chan, and on previous iterations taught by [Dr. Fred Torcaso](https://engineering.jhu.edu/faculty/federico-torcaso/) and [Dr. Sergey Kushnarev](https://www.linkedin.com/in/sergey-kushnarev-94460511).
+This course introduces methods for analyzing and forecasting time series data, including autoregressive (AR), moving average (MA), ARMA, ARIMA and seasonal models. Applications include finance, climate science, and engineering. Materials based on "Time Series Analysis with Applications in R" by Cryer and Chan, and on previous iterations taught by [Dr. Fred Torcaso](https://engineering.jhu.edu/faculty/federico-torcaso/) and [Dr. Sergey Kushnarev](https://www.linkedin.com/in/sergey-kushnarev-94460511).
 
 ---
 
