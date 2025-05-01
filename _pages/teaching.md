@@ -47,10 +47,10 @@ Below is a list of handwritten lecture notes, Colab notebooks, and lab assignmen
 
 ## Spring 2024: EN.553.439/639 – Time Series Analysis
 
-This course introduces methods for analyzing and forecasting time series data, including autoregressive (AR), moving average (MA), and ARMA models, spectral analysis, and Kalman filters. Applications include finance, climate science, and engineering. Materials based on previous iterations taught by [Dr. Fred Torcaso](https://engineering.jhu.edu/faculty/federico-torcaso/) and [Dr. Sergey Kushnarev](https://www.linkedin.com/in/sergey-kushnarev-94460511).
+This course introduces methods for analyzing and forecasting time series data, including autoregressive (AR), moving average (MA) ARMA, ARIMA and seasonal models. Applications include finance, climate science, and engineering. Materials based on "Time Series Analysis with Applications in R" by Cryer and Chan, and on previous iterations taught by [Dr. Fred Torcaso](https://engineering.jhu.edu/faculty/federico-torcaso/) and [Dr. Sergey Kushnarev](https://www.linkedin.com/in/sergey-kushnarev-94460511).
 
 ---
 
 ## Fall 2023 and 2025: EN.553.413/613 – Applied Statistics and Data Analysis
 
-Co-taught with [Dr. Sergey Kushnarev](https://www.linkedin.com/in/sergey-kushnarev-94460511) (2023) and [Dr. Kaiying O'Hare](https://sites.google.com/view/kaiying-xie) (2025). This course provides a practical introduction to statistical modeling and inference, covering linear regression, hypothesis testing, ANOVA, and non-parametric methods. Students work with real datasets and statistical software for data-driven decision making.
+Co-taught with [Dr. Sergey Kushnarev](https://www.linkedin.com/in/sergey-kushnarev-94460511) (2023) and [Dr. Kaiying O'Hare](https://sites.google.com/view/kaiying-xie) (2025). This course provides a practical introduction to statistical modeling and inference, covering linear regression, hypothesis testing, ANOVA, and non-parametric methods. Students work with real datasets and statistical software for data-driven decision making. Materials based on "Applied Linear Statistical Models" by Kutner, Nachtsheim, Neter and Li.
