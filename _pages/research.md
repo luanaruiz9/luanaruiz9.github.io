@@ -16,9 +16,9 @@ I investigate signal processing and learning on graphons, which can be thought a
 <img src="/assets/img/diagram_gnn.png" alt="GNN transferability pipeline" style="max-width: 100%; height: auto;" />
 
 **Key publications**:
-- [Graphon Signal Processing](https://ieeexplore.ieee.org/document/9508876) (IEEE Transactions on Signal Processing, 2021)  
-- [Graphon Neural Networks and the Transferability of Graph Neural Networks](https://proceedings.neurips.cc/paper/2020/hash/12bcd658ef0a540cabc36cdf2b1046fd-Abstract.html) (NeurIPS 2020)  
-- [Transferability Properties of Graph Neural Networks](https://ieeexplore.ieee.org/document/10041346) (IEEE Transactions on Signal Processing, 2023)
+- [Graphon Signal Processing](https://arxiv.org/pdf/2003.05030) (IEEE Transactions on Signal Processing, 2021)  
+- [Graphon Neural Networks and the Transferability of Graph Neural Networks](https://proceedings.neurips.cc/paper/2020/file/12bcd658ef0a540cabc36cdf2b1046fd-Paper.pdf) (NeurIPS 2020)  
+- [Transferability Properties of Graph Neural Networks](https://arxiv.org/pdf/2112.04629) (IEEE Transactions on Signal Processing, 2023)
 
 ### Manifold Signal Processing and Manifold Neural Networks
 
@@ -27,7 +27,7 @@ With my dear collaborator [Dr. Zhiyang Wang](https://zhiyangwang.net/), I also s
 <img src="/assets/img/Diagram_nsf.jpeg" alt="Example of a data manifold for image classification" style="max-width: 100%; height: auto;" />
 
 **Key publications**:
-- [Stability of Neural Networks on Riemannian Manifolds](https://ieeexplore.ieee.org/document/9616144) (EUSIPCO 2021 – Best Paper Award)  
-- [Improved Image Classification with Manifold Neural Networks](https://arxiv.org/abs/2409.13063) (arXiv preprint, 2024)  
-- [Geometric Graph Filters and Neural Networks: Limit Properties and Discriminability Trade-offs](https://ieeexplore.ieee.org/document/10310266) (IEEE Transactions on Signal Processing, 2024)
+- [Stability of Neural Networks on Riemannian Manifolds](https://arxiv.org/pdf/2103.02663) (EUSIPCO 2021 – Best Paper Award)  
+- [Improved Image Classification with Manifold Neural Networks](https://www.arxiv.org/pdf/2409.13063) (ICASSP 2025)  
+- [Geometric Graph Filters and Neural Networks: Limit Properties and Discriminability Trade-offs](https://arxiv.org/pdf/2305.18467) (IEEE Transactions on Signal Processing, 2024)
 
