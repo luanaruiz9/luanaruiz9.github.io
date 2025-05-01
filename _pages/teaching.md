@@ -9,7 +9,7 @@ nav_order: 2
 
 ## Spring 2025: EN.553.744 – Data Science Methods for Large-Scale Graphs (new class!)
 nal processing, graph neural networks (GNNs), graphon theory and transferability, and scalable training techniques for large graphs. Students engage with both foundational theory and practical implementation using PyTorch and PyTorch Geometric.
-This graduate course introduces mathematical and computational methods for analyzing graph-structured data at scale. Topics span graph sig
+This graduate course introduces mathematical and computational methods for analyzing graph-structured data at scale.
 
 **Lectures**  
 
