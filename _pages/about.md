@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: Assistant Professor, Department of Applied Mathematics and Statistics, Johns Hopkins University
 profile:

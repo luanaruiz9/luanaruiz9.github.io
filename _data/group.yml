@@ -1,0 +1,51 @@
+- name: Caio F. D. Netto
+  role: PhD Student
+  bio: >
+    PhD student in Applied Mathematics & Statistics at Johns Hopkins.
+    Works on geometry-aware learning for non-Euclidean data, scaling GNNs, and
+    theory for transferability and generalization. Interested in connecting
+    geometric deep learning with transformer/LLM architectures. Previously at
+    University of São Paulo (BSc/MSc), where he received the Itaú Fellowship.
+  headshot: /assets/people/headshot-caio_netto.jpeg
+  website: https://caiodeberaldini.github.io/
+  linkedin: https://www.linkedin.com/in/caio-fabricio-deberaldini-netto-126a46153/
+  group: PhD Students
+  order: 1
+
+- name: Roxanne (Roxy) Holden
+  role: PhD Student; Researcher, JHU APL
+  bio: >
+    Mathematical researcher and Russian linguist at the Johns Hopkins
+    University Applied Physics Laboratory and PhD student in AMS at JHU
+    (advised by Luana Ruiz). Research interests include graph theory, graph
+    neural networks (GNNs), and advanced cryptographic techniques. BA in
+    Mathematics and Russian from Dartmouth College.
+  headshot: /assets/people/headshot.jpg
+  linkedin: https://www.linkedin.com/in/roxanne-holden-657bb616a/
+  group: PhD Students
+  order: 2
+
+- name: Haoyu Wang
+  role: PhD Student
+  bio: >
+    PhD student in Applied Mathematics & Statistics at Johns Hopkins. Interests:
+    random matrices and graph theory, spectral graph theory, and applications to
+    machine learning—especially graph signal processing. Focused on theoretical
+    foundations of graph-based sampling algorithms and stochastic modeling.
+    BS (Mathematics) from The Ohio State University; MS (Computational and Applied
+    Mathematics) from the University of Chicago.
+  headshot: /assets/people/haoyu.jpg
+  # website:
+  # linkedin:
+  group: PhD Students
+  order: 3
+
+- name: My Le
+  role: PhD Student
+  bio: >
+    Bio forthcoming.
+  headshot: /assets/people/my.jpg
+  # website:
+  # linkedin:
+  group: PhD Students
+  order: 4
