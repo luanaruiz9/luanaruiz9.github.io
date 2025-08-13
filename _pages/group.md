@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /group/
+permalink: /people/
 title: Group
 description: Meet our group.
 nav: true
@@ -10,7 +10,7 @@ nav_order: 3
 {% assign group_order = "Postdocs|PhD Students|MS Students|Undergraduates|Visitors|Alumni" | split: "|" %}
 
 {% for g in group_order %}
-  {% assign members = site.data.people | where: "group", g | sort: "order" %}
+  {% assign members = site.data.group | where: "group", g | sort: "order" %}
   {% if members.size > 0 %}
   ### {{ g }}
 
