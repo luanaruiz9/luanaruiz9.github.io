@@ -2,7 +2,7 @@
 layout: page
 permalink: /people/
 title: Group
-description: Meet our group.
+description: 
 nav: true
 nav_order: 3
 ---
@@ -12,7 +12,7 @@ nav_order: 3
 {% for g in group_order %}
   {% assign members = site.data.group | where: "group", g | sort: "order" %}
   {% if members.size > 0 %}
-  ### {{ g }}
+  <strong>{{ g }}</strong>
 
   <div class="people-grid">
     {% for p in members %}

@@ -10,7 +10,7 @@
   website: https://caiodeberaldini.github.io/
   linkedin: https://www.linkedin.com/in/caio-fabricio-deberaldini-netto-126a46153/
   group: PhD Students
-  order: 1
+  order: 2
 
 - name: Roxanne (Roxy) Holden
   role: PhD Student; Researcher, JHU APL
@@ -23,7 +23,7 @@
   headshot: /assets/people/headshot.jpg
   linkedin: https://www.linkedin.com/in/roxanne-holden-657bb616a/
   group: PhD Students
-  order: 2
+  order: 3
 
 - name: Haoyu Wang
   role: PhD Student
@@ -34,18 +34,22 @@
     foundations of graph-based sampling algorithms and stochastic modeling.
     BS (Mathematics) from The Ohio State University; MS (Computational and Applied
     Mathematics) from the University of Chicago.
-  headshot: 
+  headshot: /assets/people/haoyu.jpeg
   # website:
-  # linkedin:
+  linkedin: https://www.linkedin.com/in/haoyu-wang-241883221/
   group: PhD Students
-  order: 3
+  order: 4
 
 - name: My Le
   role: PhD Student
   bio: >
-    Bio forthcoming.
-  headshot: 
+    PhD student in Applied Mathematics & Statistics at Johns Hopkins.
+    Research experience spans applied sciences, operations management,
+    business analytics, renewable energy markets, and the pharmaceutical
+    industry. Interested in applying mathematics and programming to
+    real-world challenges in engineering, finance, and healthcare.
+  headshot: /assets/people/my.jpg
   # website:
-  # linkedin:
+  linkedin: https://www.linkedin.com/in/mle0108
   group: PhD Students
-  order: 4
+  order: 1
