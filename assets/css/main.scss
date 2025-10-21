@@ -14,3 +14,11 @@ $max-content-width: {{ site.max_width }};
   "distill",
   "cv"
 ;
+
+// ---------------------------------------------
+// Custom overrides
+// ---------------------------------------------
+
+/* Hide BibTeX buttons + hidden blocks */
+.home .publications .links a.bibtex { display: none !important; }
+.home .publications .bibtex.hidden { display: none !important; }
