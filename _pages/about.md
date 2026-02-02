@@ -8,7 +8,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>Wyman Park Building N452</p>
+    <p>Mt. Washington (6225 Smith Ave) SE213</p>
     <p>Baltimore, MD 21211</p>
     <p>lrubini1-at-jh-dot-edu</p>
 
